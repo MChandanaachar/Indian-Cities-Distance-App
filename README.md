@@ -29,7 +29,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/MChandanaachar/your-repo-name.git
+git clone https://github.com/MChandanaachar/Indian-Cities-Distance-App.git
 cd your-repo-name
 Create and activate a virtual environment
 
